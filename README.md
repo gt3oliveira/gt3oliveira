@@ -1,16 +1,21 @@
-### Hi there 👋
+### Fala cmg! Meu nome é Gustavo Tavares  👋
+Sou **Engenheiro da computação**, formado na [Universidade de Vassouras](https://univassouras.edu.br/) - RJ. 
 
-<!--
-**gt3oliveira/gt3oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Desenvolvedor Full Stack.
+- 🏠 Resido no Rio de Janeiro.
+- 📚 Sigo constantemente aprendendo novas tecnologias e linguagens de programação.
+- 💻 Apaixonado por programação.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Essas são as linguagens e frameworks que utilizo atualmente no desenvolvimento de aplicações e websites:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />&nbsp;&nbsp;  
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;                 
+</div>
+          
+          
